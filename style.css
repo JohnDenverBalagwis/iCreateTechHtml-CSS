@@ -28,10 +28,14 @@
             text-align: center;
         }
         
-        .Did {
+        .center {
             text-align: center;
         }
         
-        .center {
-            text-align: center;
+        main {
+            margin: 30px;
+        }
+        
+        p {
+            text-align: justify;
         }
